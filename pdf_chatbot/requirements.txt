@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+pypdf
+pdfplumber
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
+colorama
+tqdm
+torch
+numpy
+langdetect

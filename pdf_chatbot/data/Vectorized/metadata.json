@@ -1,0 +1,12 @@
+{
+  "database_dir": "data/database",
+  "total_pdfs": 370,
+  "total_chunks": 6757,
+  "total_size_gb": 1.6254688631743193,
+  "subdirectories": {
+    "manual/fr": 370
+  },
+  "embedding_model": "all-MiniLM-L6-v2",
+  "processing_time": 764.8549401760101,
+  "timestamp": "2025-07-14 22:30:38"
+}
