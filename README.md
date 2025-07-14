@@ -74,7 +74,7 @@ Assistant: The manuals mention several models in the TITANIUM series, such as th
 ## Project Layout
 
 ```
-pdf_chatbot/
+GYS/
 ├── chat_agent.py            # Chat interface using Mistral 7B
 ├── database_processor.py    # PDF processing with French extraction
 ├── requirements.txt         # Python dependencies (includes langdetect)
